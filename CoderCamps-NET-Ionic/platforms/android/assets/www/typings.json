@@ -1,0 +1,14 @@
+{
+  "globalDependencies": {
+    "angular": "registry:dt/angular#1.5.0+20160517064839",
+    "angular-resource": "registry:dt/angular-resource#1.5.0+20160412142209",
+    "angular-ui-bootstrap": "registry:dt/angular-ui-bootstrap#0.13.3+20160501125848",
+    "angular-ui-router": "registry:dt/angular-ui-router#0.0.0+20160112161118",
+    "cordova": "registry:dt/cordova#0.0.0+20160607055823",
+    "cordova-ionic": "registry:dt/cordova-ionic#0.0.0+20160316155526",
+    "cordova-ionic/plugins/keyboard": "registry:dt/cordova-ionic/plugins/keyboard#0.0.0+20160317120654",
+    "cordova/plugins/statusbar": "registry:dt/cordova/plugins/statusbar#0.0.0+20160316155526",
+    "ionic": "registry:dt/ionic#0.0.0+20160501155303",
+    "jquery": "registry:dt/jquery#2.0.0+20160303223636"
+  }
+}
