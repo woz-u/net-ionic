@@ -21,7 +21,7 @@ var MyApp;
             .state('tab', {
             url: '/tab',
             abstract: true,
-            templateUrl: 'templates/tabs.html'
+            templateUrl: '/ngApp/views/tabs.html'
         })
             .state('tab.dash', {
             url: '/dash',

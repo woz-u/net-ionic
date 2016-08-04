@@ -28,7 +28,7 @@
                 .state('tab', {
                     url: '/tab',
                     abstract: true,
-                    templateUrl: 'templates/tabs.html'
+                    templateUrl: '/ngApp/views/tabs.html'
                 })
 
                 // Each tab has its own nav history stack:
